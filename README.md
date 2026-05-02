@@ -7,7 +7,7 @@
 
 **🛡️ ZeroLoop - Preventing retry loops, one scan at a time**
 
-[Demo](https://your-demo-link.com) • [Documentation](https://your-docs-link.com) • [Report Bug](https://github.com/yourusername/zeroloop/issues)
+[Demo Video](https://your-demo-link.com) • [Documentation](https://github.com/Atul-Kumar29/ZeroLoop/README.md) • [Repository](https://github.com/Atul-Kumar29/ZeroLoop)
 
 Made with ❤️ for IBM Bob
 
@@ -1070,7 +1070,7 @@ If you encounter issues not covered here:
    ```
 
 3. **Report bugs:**
-   - [GitHub Issues](https://github.com/yourusername/zeroloop/issues)
+   - [GitHub Issues](https://github.com/Atul-Kumar29/ZeroLoop/issues)
    - Include: OS, Node version, Python version, error message
 
 ---
