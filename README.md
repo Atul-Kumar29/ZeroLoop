@@ -7,7 +7,7 @@
 
 **🛡️ ZeroLoop - Preventing retry loops, one scan at a time**
 
-[Demo Video](https://your-demo-link.com) • [Documentation](https://github.com/Atul-Kumar29/ZeroLoop/README.md) • [Repository](https://github.com/Atul-Kumar29/ZeroLoop)
+[Demo Video](https://your-demo-link.com) • [Documentation](https://github.com/Atul-Kumar29/ZeroLoop/blob/main/README.md) • [Repository](https://github.com/Atul-Kumar29/ZeroLoop)
 
 Made with ❤️ for IBM Bob
 
