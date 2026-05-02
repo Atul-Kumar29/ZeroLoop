@@ -912,41 +912,6 @@ zeroloop/
 ---
 
 
-
-## Bob Sessions
-
-The `bob_sessions/` folder (if present) contains detailed session reports showing ZeroLoop's impact:
-
-### What's Inside
-
-Each session report documents:
-- **Phase built** - What feature was implemented
-- **Issues detected** - What ZeroLoop found
-- **Bob behavior before** - Retry loops, errors, confusion
-- **Bob behavior after** - First-try success, no loops
-- **Bobcoins saved** - Quantified impact
-
-### Key Sessions for Judges
-
-1. **Phase 1: Initial Scanner** - Shows Bob struggling with circular dependencies before ZeroLoop
-2. **Phase 2: Granite Integration** - Demonstrates AI interpretation quality
-3. **Phase 3: Circuit Breaker** - Proves loop prevention works
-4. **Phase 4: Coordinated Fixes** - Shows atomic upgrade success
-5. **Phase 5: Reset Context** - Demonstrates mid-session loop breaking
-
-### How to Review
-
-```bash
-# List all session reports
-ls bob_sessions/
-
-# Read a specific session
-cat bob_sessions/task-Phase2.md
-```
-
----
-
-
 ### Judges: Try It Now!
 
 **2-minute quick start:**
