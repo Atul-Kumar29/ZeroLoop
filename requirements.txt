@@ -1,0 +1,7 @@
+# ZeroLoop Python Dependencies
+
+# HTTP requests for Granite API
+requests>=2.31.0
+
+# Optional: IBM Watson Machine Learning SDK (alternative to direct API calls)
+# ibm-watson-machine-learning>=1.0.0
