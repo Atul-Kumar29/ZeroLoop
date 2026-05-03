@@ -39,10 +39,10 @@ This can be scaled for any tech stack, not just Node.js. We chose Node.js as a p
 ## Proof of concept working:
 
 I gave bob the same Poisoned project with dependency issues. Here is the result without ZeroLoop:
-[Without using ZeroLoop, consumes more Bob coins](without_zero_loop.png)
+![Without using ZeroLoop, consumes more Bob coins](without_zero_loop.png)
 
 Result with ZeroLoop:
-[Using ZeroLoop, consumed less Bob coins](improvement_with_zero_loop.png)
+![Using ZeroLoop, consumed less Bob coins](improvement_with_zero_loop.png)
 
 Although, it might look like a slight improvement here, but in real world projects, it can cascade to many Bob coins being burnt. This was just a simple demo.
 
