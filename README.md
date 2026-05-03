@@ -7,7 +7,7 @@
 
 **🛡️ ZeroLoop - Preventing retry loops, one scan at a time**
 
-[Demo Video](https://your-demo-link.com) • [Documentation](https://github.com/Atul-Kumar29/ZeroLoop/blob/main/README.md) • [Repository](https://github.com/Atul-Kumar29/ZeroLoop)
+[Demo Video](https://youtu.be/5e5G5HTmreM?si=L61C1Ivgfb8DhPgk) • [Documentation](https://github.com/Atul-Kumar29/ZeroLoop/blob/main/README.md) • [Repository](https://github.com/Atul-Kumar29/ZeroLoop)
 
 Made with ❤️ for IBM Bob
 
@@ -15,7 +15,7 @@ Made with ❤️ for IBM Bob
 
 ## The Problem
 
-IBM Bob (or any AI agent used for vibecoding) is powerful, but when it encounters hidden project issues, it enters **retry loops** — attempting the same failing approach multiple times, burning through Bobcoins with each iteration.
+IBM Bob(or for that matter, any AI agent) is powerful, but when it encounters hidden project issues, it enters **retry loops** — attempting the same failing approach multiple times, burning through Bobcoins with each iteration.
 
 **Common culprits:**
 - 🔴 Incompatible dependency versions (Mongoose 5.x + MongoDB 4.x)
@@ -44,7 +44,7 @@ I gave bob the same Poisoned project with dependency issues. Here is the result 
 Result with ZeroLoop:
 ![Using ZeroLoop, consumed less Bob coins](improvement_with_zero_loop.png)
 
-Although, it might look like a slight improvement here, but in real world projects, it can cascade to many Bob coins being burnt. This was just a simple demo.
+This demo used a simple 6-issue project. In real enterprise codebases with complex transitive dependencies, the savings compound significantly.
 
 ## Hackathon Submission
 
@@ -665,7 +665,7 @@ python3 zeroloop-inject.py ./project \
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/zeroloop.git
+git clone https://github.com/Atul-Kumar29/ZeroLoop
 cd zeroloop
 
 # Install Node.js dependencies
@@ -929,7 +929,7 @@ zeroloop/
 
 ```bash
 # 1. Clone and install (30 seconds)
-git clone https://github.com/yourusername/zeroloop.git
+git clone https://github.com/Atul-Kumar29/ZeroLoop.git
 cd zeroloop
 npm install && pip install -r requirements.txt
 
@@ -1088,7 +1088,7 @@ If you encounter issues not covered here:
 
 ## Contributing
 
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+We welcome contributions! Please see [CONTRIBUTING.md](/CONTRIBUTING.md) for guidelines.
 
 ---
 
